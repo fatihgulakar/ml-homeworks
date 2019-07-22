@@ -1,2 +1,2 @@
-# ml_classHomeworks
+# ml_Homeworks
 Source codes for my Machine Learning class 
